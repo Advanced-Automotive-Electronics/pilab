@@ -27,4 +27,4 @@
       - The print statement will output text to the terminal
  3. Save your code with ctrl+s
  4. Run your code by clicking on the triangle found in the upper right corner of vscode
-    ![ Alt text](runFile.gif) / ! [](runFile.gif)
+    ![ Alt text](img/run_file.gif) / ! [](img/runFile.gif)

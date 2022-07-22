@@ -23,7 +23,8 @@
       - `#!/usr/bin/env python3`
       - This is the interpreter line that helps the computer identify the file as a python file
  2. Write this statement on the third line of the file
-      - `print('Hello World!)`
+      - `print('Hello World!')`
       - The print statement will output text to the terminal
  3. Save your code with ctrl+s
  4. Run your code by clicking on the triangle found in the upper right corner of vscode
+    ![ Alt text](runFile.gif) / ! [](runFile.gif)

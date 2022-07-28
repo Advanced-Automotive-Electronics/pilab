@@ -13,3 +13,4 @@ This differing response is what determines the use of one driver over the other;
 Low-side drivers have been widely used in engine and transmission control since the 1980s, but the widespread adoption of high-side drivers is fairly new. Initial use was in body functions such as electric set motors or mirrors, but more recently the main factor has been the expansion of LED lighting. From its initial use in interiors, LED lighting has spread to turn signals and brake lights, and now is making its appearance in headlights. An automotive LED headlight system typically consists of a high-side smart LED driver controlling several LEDs in a series string."
 
 ~ [Digi-Key Smart High Side Drivers](https://www.digikey.com/en/articles/smart-high-side-drivers-help-meet-tough-new-automotive-standards#:~:text=The%20low%2Dside%20driver%20is,their%20response%20to%20fault%20conditions.)
+
